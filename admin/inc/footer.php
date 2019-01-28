@@ -5,7 +5,7 @@
     </div>
     <div id="site_info">
         <p>
-         &copy; Copyright <a href="">live project</a>. All Rights Reserved.
+         &copy; Copyright <a href="">Blog project</a>. All Rights Reserved.
         </p>
     </div>
 </body>

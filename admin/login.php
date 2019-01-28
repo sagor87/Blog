@@ -71,7 +71,7 @@
                   </div>
 
                   <div class="button">
-                    <a href="">Training with live project</a>
+                    <a href="">Blog project</a>
                   </div><!-- button -->
 
                 </section><!-- content -->
